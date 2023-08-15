@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Cybernaut-Official/cyberblogs/blob/main/static/cyber-size.jpeg?raw=true" width="250" /> <p/>
+
 
 # Cyberblogs
 
